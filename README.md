@@ -10,7 +10,8 @@
 ## [TransparentAP](https://www.transparentap.com)
 AP Course Planner that includes course synopsis, prerequisiites, estimated workload, avg. course difficulty, etc.
 
-#### An example of how the wesbite could be improved utilziting data visualizations
+
+
 
 
 
